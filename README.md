@@ -1,1 +1,3 @@
-# axe-tron
+# AxeTron
+
+Integrated digital guitar effects.
