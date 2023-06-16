@@ -3,6 +3,8 @@
 
 AxeTron represents a new generation of electric guitars, combining traditional and novel design elements for enhanced portability and expanded control during live performances.
 
+Check out the [paper](https://github.com/wenbakefield/axetron/blob/52b90f5a8087c217043038534a7bf72ba9d7f503/axetron_report.pdf)!
+
 ## Technical Specifications
 
 - **Integrated System:** AxeTron is an all-in-one system, reducing reliance on external gear. It integrates embedded DSP hardware for a broad range of audio effects.
