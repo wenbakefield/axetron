@@ -1,4 +1,4 @@
-# AxeTron: Embedded Effects for Electric Guitar
+# AxeTron: Embedded Digital Effects for Electric Guitar
 ![knobs](https://github.com/wenbakefield/axetron/assets/8831999/c61031a0-303b-4aae-ba1c-65b123981d4d)
 
 AxeTron represents a new generation of electric guitars, combining traditional and novel design elements for enhanced portability and expanded control during live performances.
